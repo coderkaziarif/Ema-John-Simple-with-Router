@@ -11,7 +11,7 @@ import {
 import Review from './components/Review/Review';
 import Inventory from './components/Inventory/Inventory';
 import ProductDetail from './components/ProductDetail/ProductDetail';
-import NotFound from './components/ProductDetail/NotFound/NotFound';
+import NotFound from './components/NotFound/NotFound';
 function App() {
   return (
     <div>
